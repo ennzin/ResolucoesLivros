@@ -1,78 +1,75 @@
-[![Licença](https://img.shields.io/github/license/exata0mente/ResolucoesLivros.svg)](https://img.shields.io/github/license/exata0mente/ResolucoesLivros.svg)
-[![Issues Abertas](https://img.shields.io/github/issues/exata0mente/ResolucoesLivros.svg)](https://img.shields.io/github/issues/exata0mente/ResolucoesLivros.svg)
-[![Commits Mês](https://img.shields.io/github/commit-activity/m/exata0mente/ResolucoesLivros.svg)](https://img.shields.io/github/commit-activity/m/exata0mente/ResolucoesLivros.svg)
-[![Colaboradores](https://img.shields.io/github/contributors/exata0mente/resolucoeslivros.svg)](https://img.shields.io/github/contributors/exata0mente/resolucoeslivros.svg)
-# Resolução de Exercícios de Livros
+[![License](https://img.shields.io/github/license/exata0mente/ResolucoesLivros.svg)](https://img.shields.io/github/license/exata0mente/ResolucoesLivros.svg)
+[![Open Issues](https://img.shields.io/github/issues/exata0mente/ResolucoesLivros.svg)](https://img.shields.io/github/issues/exata0mente/ResolucoesLivros.svg)
+[![Commits Month](https://img.shields.io/github/commit-activity/m/exata0mente/ResolucoesLivros.svg)](https://img.shields.io/github/commit-activity/m /exact0mente/ResolucoesLivros.svg)
+[![Contributors](https://img.shields.io/github/contributors/exata0mente/resolucoeslivros.svg)](https://img.shields.io/github/contributors/exata0mente/resolucoeslivros.svg)
+# Solving Book Exercises
 
-Neste repositório terá todas as resoluções que de exercícios de livros que documentei, sendo eles da área de computação (não é uma condição exclusiva. Posso acabar inserindo de outros temas). Sinta-se a vontade para consumir, corrigir ou colaborar com mais exercícios e dicas.
+In this repository you will have all the resolutions of exercises from books that I have documented, which are from the computing area (it is not an exclusive condition. I may end up inserting them from other topics). Feel free to consume, correct or collaborate with more exercises and tips.
 
-## Esturutra das pastas do repositório
+## Structure of repository folders
 
-
-* [Programacao](Programacao/) - Livros referente a lógica e linguagens de programação.
-  * [Linguagem C](Programacao/Linguagem-C) - DAMAS, Luis. **Linguagem C. 10ª** Edição.
-  * [Treinamento em Linguagem C](Programacao/Treinamento_em_Linguagem_C) - MIZRAHI, Victorine Viviane. **Treinamento em linguagem C**.
-* [Banco_de_Dados](Banco_de_Dados/) - Livros referente a modelagem e linguagens de banco de dados.
-  * [Projeto de Banco de Dados](Banco_de_Dados/Projeto_de_BD) - HEUSER, Carlos Alberto. **Projeto de banco de dados: Volume 4 da Série Livros didáticos informática UFRGS**
-* [Sistemas](Sistemas/) - Livros referente a conceitos gerais como SO, Arquitetura de SO, Hardware, etc.
-  * [Arquitetura de Sistemas Operacionais](Sistemas/Arquitetura_de_SO) - MACHADO, Francis Berenger; MAIA, Luiz Paulo. **Arquitetura de sistemas operacionais**
-* [Ciencia_dos_Dados](Ciencia_dos_Dados/) - Livros que envolvem todos os conteúdos aplicados à DS.
-  * [Aprenda Mineração de Dados](Ciencia_dos_Dados/Livro_Aprenda_Mineracao_Dados) - AMARAL, Fernando. Aprenda Mineração de Dados: Teoria e prática.
-
+* [Programacao](Programacao/) - Books on logic and programming languages.
+  * [C Language](Programming/C-Language) - DAMAS, Luis. **C Language. 10th** Edition.
+  * [Training in C Language](Programming/Training_in_C_Language) - MIZRAHI, Victorine Viviane. **Training in C language**.
+* [Banco_de_Dados](Banco_de_Dados/) - Books on modeling and database languages.
+  * [Database Project](Data_Base/BD_Project) - HEUSER, Carlos Alberto. **Database project: Volume 4 of the UFRGS IT Textbook Series**
+* [Systems](Systems/) - Books referring to general concepts such as OS, OS Architecture, Hardware, etc.
+  * [Operating Systems Architecture](Systems/OS_Architecture) - MACHADO, Francis Berenger; MAIA, Luiz Paulo. **Operating system architecture**
+* [Ciencia_dos_Dados](Ciencia_dos_Dados/) - Books that involve all content applied to DS.
+  * [Learn Data Mining](Ciencia_dos_Dados/Livro_Aprenda_Mineracao_Dados) - AMARAL, Fernando. Learn Data Mining: Theory and practice.
 ## Progresso dos livros
 
-Abaixo vamos listar o status de cada livro, dificuldade e o colaborador que está trabalhando na respostas. Seguiremos a seguinte legenda:
+Below we will list the status of each book, difficulty and the collaborator who is working on the answers. We will follow the following caption:
 
 **Status**
-* :pencil: `:pencil:`  - Resolução dos exercícios em andamento.
-* :heavy_check_mark: `:heavy_check_mark:` - Resolução dos exercícios finalizadas.
-* :zzz: `:zzz:` - Resolução dos exercícios congelada ou inativa.
-* :raising_hand_woman: `:raising_hand_woman:` - Resolução dos exercícios necessita de ajuda ou revisão
-* :love_letter:`:love_letter:` Resolução dos exercícios solicitada pela comiunidade.
-* :runner: `:runner:` - Resolução dos exercícios abandonada.
-* :watch: `:watch:` - Resolução dos exercícios em análise
+* :pencil: `:pencil:` - Resolution of exercises in progress.
+* :heavy_check_mark: `:heavy_check_mark:` - Resolution of exercises completed.
+* :zzz: `:zzz:` - Exercise resolution frozen or inactive.
+* :raising_hand_woman: `:raising_hand_woman:` - Exercise resolution requires help or review
+* :love_letter:`:love_letter:` Resolution of the exercises requested by the community.
+* :runner: `:runner:` - Exercise resolution abandoned.
+* :watch: `:watch:` - Resolution of the exercises under analysis
 
-**Dificuldade**
-* :sunny:`:sunny:` Exercícios de nível básico
-* :sun_behind_small_cloud: `:sun_behind_small_cloud:` - Exercícios de nível intermediário
-* :sun_behind_rain_cloud:`:sun_behind_rain_cloud:` Exercícios de nível avançado
+**Difficulty**
+* :sunny:`:sunny:` Basic level exercises
+* :sun_behind_small_cloud: `:sun_behind_small_cloud:` - Intermediate level exercises
+* :sun_behind_rain_cloud:`:sun_behind_rain_cloud:` Advanced level exercises
 
-### Lista de Livros
+### Book List
 
-Status / Dificuldade | Livro | Capítulo Atual | Colaborador(es)|
--------------------- |-------|----------------|----------------|
-:zzz::sunny:| MIZRAHI, Victorine Viviane. **Treinamento em linguagem C**.|7 de ?| @exata0mente
-:zzz::sunny:| HEUSER, Carlos Alberto. **Projeto de banco de dados: Volume 4 da Série Livros didáticos informática UFRGS** | 1 de ? | @exata0mente
-:zzz::sun_behind_small_cloud: | AMARAL, Fernando. **Aprenda Mineração de Dados: Teoria e prática**. | 1 de ? | @exata0mente
-:zzz::sunny:| DAMAS, Luis. **Linguagem C. 10ª Edição**. | 1 de ? | @exata0mente
-:zzz::sunny:|ASCENCIO, Ana Fernanda; CAMPOS, Edilene. **Fundamentos da Programação de Computadores. 3ª Edição**.| ? | @kauageorjuti
-:pencil::sun_behind_small_cloud:|MACHADO, Francis Berenger; MAIA, Luiz Paulo. **Arquitetura de sistemas operacionais**.| 1 de ? | @exata0mente @vitorrsbarbosa
-:watch::sun_behind_small_cloud:| **C++ Black Book - Guia Completo para Resolução de Problemas** | ? |
-:watch::sun_behind_small_cloud:|THOMAS, David. **O Programador Pragmático: de aprendiz a mestre**.|?|
-:watch::sun_behind_rain_cloud:| SUDARSHAN, S.; SILBERSCHATZ, Abraham; KORTH, F. Henry. **Sistemas de Banco de Dados** | ? |
-:watch::sun_behind_small_cloud:|MARTIN, Robert C. et al. **Código limpo: habilidades práticas do Agile software** | ? |
+Status/Difficulty | Book | Current Chapter | Collaborator(s)|
+-------------------- |-------|----------------|---- ------------|
+:zzz::sunny:| MIZRAHI, Victorine Viviane. **Training in C language**.|7 of ?| @exactly
+:zzz::sunny:| HEUSER, Carlos Alberto. **Database project: Volume 4 of the UFRGS IT Textbook Series** | 1 of ? | @exactly
+:zzz::sun_behind_small_cloud: | AMARAL, Fernando. **Learn Data Mining: Theory and practice**. | 1 of ? | @exactly
+:zzz::sunny:| DAMAS, Luis. **C Language. 10th Edition**. | 1 of ? | @exactly
+:zzz::sunny:|ASCENCIO, Ana Fernanda; CAMPOS, Edilene. **Fundamentals of Computer Programming. 3rd Edition**.| ? | @kauageorjuti
+:pencil::sun_behind_small_cloud:|MACHADO, Francis Berenger; MAIA, Luiz Paulo. **Operating system architecture**.| 1 of ? | @exata0mente @vitorrsbarbosa
+:watch::sun_behind_small_cloud:| **C++ Black Book - Complete Troubleshooting Guide** | ? |
+:watch::sun_behind_small_cloud:|THOMAS, David. **The Pragmatic Programmer: from apprentice to master**.|?|
+:watch::sun_behind_rain_cloud:| SUDARSHAN, S.; SILBERSCHATZ, Abraham; KORTH, F. Henry. **Database Systems** | ? |
+:watch::sun_behind_small_cloud:|MARTIN, Robert C. et al. **Clean Code: Practical Agile Software Skills** | ? |
 
+### Upcoming Books
 
-### Próximos Livros
+If you want a book to be included on this list, open an issue asking for the book's resolution to be evaluated or put yourself on this list.
 
-Caso queira que algum livro entre nessa lista, abra uma issue solicitando a avaliação da resolução do livro ou então coloque você mesmo nesta lista.
+I would like to take this opportunity to indicate the post we created about [how to work collaboratively with GitHub](https://exata0mente.com.br/resp/como-trabalhor-colaboratividade-utilizando-o-github)
 
-Aproveito para indicar o post que criamos sobre [como trabalhar colaborativamente com o GitHub](https://exata0mente.com.br/resp/como-trabalhar-colaborativamente-utilizando-o-github)
+## Something wrong is not right
 
-## Algo de errado não está certo
+The "solutions" shown here were created during the academic period and are not free from errors. Please let us know if you find anything that can be corrected, be it spelling, function, line of reasoning, etc.
 
-As "soluções" que aqui constam foram criadas no decorrer do periodo acadêmico, não estando livres de erros. Peço que nos reporte caso encontre algo que possa ser corrigido, seja ortografia, função, linha de raciocínio, etc.
+## Collaborative thinking
 
-## Pensamento colaborativo
+If you want to know more about how to collaborate, take a look at our [CONTRIBUTING.md](docs/CONTRIBUTING.md)
 
-Caso queira saber mais como colaborar, dê uma olhada no nosso [CONTRIBUTING.md](docs/CONTRIBUTING.md)
+## Can we help you? :heart_eyes
 
-## Conseguimos te ajudar? :heart_eyes:
+Yay! Duty fulfilled. How about giving a "star" :star: to our repository? This way we can reach more and more people. Or perhaps a simple coffee?
 
-Oba! Dever cumprido. Que tal dar uma "estrelada" :star: no nosso repositório? Assim poderemos alcançar mais e mais pessoas. Ou quem sabe um simples cafézinho?
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id= JXFJQPWTTAWRC)
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JXFJQPWTTAWRC)
+## Contact
 
-## Contato
-
-exata0mente@gmail.com.
+exact0mente@gmail.com.
